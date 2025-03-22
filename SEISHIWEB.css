@@ -26,17 +26,16 @@ body{
         align-items: center;
         justify-content: center;
         text-align: center;
+                  /* border:white; */
     }
 
     .backgroundvideo{
         width:100%;
         opacity: 0.75;
-        position:relative;
-        z-index: -1;
         }
 
         .invictus1{
-            /* border:white; */
+            border:white;
             width:100%;
             position:absolute;
             height: calc(93% - 15vh);
@@ -69,8 +68,8 @@ body{
             font-family: HelveticaNeueBold;
             color:white;
             background: none;
-            border: white;
-            border-style: solid;
+            /* border: white;
+            border-style: solid; */
 
         }
 
