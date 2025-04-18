@@ -118,10 +118,10 @@ body{
         text-align: center;
         padding-left: 25vw;
         padding-right: 25vw;
-        font-size:0.8em;
+        font-size:0.8vw;
         margin-top: 15vh;
         margin-bottom:15vh;
-        line-height:25px;
+        line-height:1vw;
         /* border:solid;
             border:solid; */
 }
@@ -165,7 +165,7 @@ width:50%;
     text-decoration:none;
     color:white;
     font-family: "HelveticaNeueBold";
-    font-size: small;
+    font-size: 1vw;
     text-align: center;
     
 
@@ -201,7 +201,7 @@ width:50%;
 
 
   .links:hover{
-font-size: medium;
+font-size: 1.5vw;
   }
 
 
