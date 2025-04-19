@@ -225,13 +225,13 @@ font-size: 1.5vw;
     }
     }
 
-    @media (min-width:481px) {
+    @media screen and (min-aspect-ratio: 1) {
         
         .hidden_desktop  {
             display:none;
         }
     }
-    @media (max-width:480px) {
+    @media screen and (max-aspect-ratio: 1) {
         .hidden_mobile{
             display:none;
         }
